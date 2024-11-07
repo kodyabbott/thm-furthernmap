@@ -113,7 +113,7 @@ Ports
 
 - Which RFC defines the appropriate behaviour for the TCP protocol?
 ```
-RFC 793
+RFC 9293
 ```
 
 - If a port is closed, which flag should the server send back to indicate this?
